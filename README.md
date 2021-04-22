@@ -4,13 +4,10 @@ Here is the official repository for the binaries releases of the SpecialFX exten
 Special FX Extension is the first official extension for the Amos Professional Unity project.
 It uses slot #13 in the Amos Professional Unity extensions/plugins slots.
 
-This extension/plugin requires at leat : Amos Professional Unity - Public Alpha Release 2
+This extension/plugin requires at least : Amos Professional Unity - Public Alpha Release 2
 
-# Webpage of the project :
+# Homepage of the project :
   http://amos-professional-aga.frederic-cordier.fr/?specialfx-extension-previously-personal-unity
-
-# You can see the details of all commands available in this Public Alpha Release 1 here :
-  http://amos-professional-aga.frederic-cordier.fr/?amos-professional-unity---specialfx-extension---commands-set
 
 # Here is the list of the available commands in the Public Alpha Release 1 :
 
@@ -38,3 +35,6 @@ Paste F Icon ICONID,XPOS,YPOS,(optional)MASK
 Create Playfield From Sprite YSTART, HEIGHT
 Remove Sprite Playfield
 Set Playfield Prioritie
+
+# You can see the details on how to use all the available commands of this Public Alpha Release 1 here :
+  http://amos-professional-aga.frederic-cordier.fr/?amos-professional-unity---specialfx-extension---commands-set
