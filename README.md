@@ -8,7 +8,7 @@ It uses slot #13 in the Amos Professional Unity extensions/plugins slots.
 # Webpage of the project :
   http://amos-professional-aga.frederic-cordier.fr/?specialfx-extension-previously-personal-unity
 
-# You can see the details of all commands available in this Public Alpha Release 1 here
+# You can see the details of all commands available in this Public Alpha Release 1 here :
   http://amos-professional-aga.frederic-cordier.fr/?amos-professional-unity---specialfx-extension---commands-set
 
 # Here is the list of the available commands in the Public Alpha Release 1 :
