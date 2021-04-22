@@ -2,7 +2,7 @@
 Here is the official repository for the binaries releases of the SpecialFX extension for Amos Professional Unity
 
 Special FX Extension is the first official extension for the Amos Professional Unity project.
-
+It uses slot #13 in the Amos Professional Unity extensions/plugins slots.
 
 
 # Webpage of the project :
