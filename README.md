@@ -7,7 +7,7 @@ It uses slot #13 in the Amos Professional Unity extensions/plugins slots.
 This extension/plugin requires at least : Amos Professional Unity - Public Alpha Release 2
 
 # Homepage of the project :
-  http://amos-professional-aga.frederic-cordier.fr/?specialfx-extension-previously-personal-unity
+  https://amos-professional-unity.frederic-cordier.fr/spip.php?article6
 
 # Here is the list of the available commands in the Public Alpha Release 1 :
 
@@ -36,5 +36,5 @@ Create Playfield From Sprite YSTART, HEIGHT
 Remove Sprite Playfield
 Set Playfield Prioritie
 
-# You can see the details on how to use all the available commands of this Public Alpha Release 1 here :
-  http://amos-professional-aga.frederic-cordier.fr/?amos-professional-unity---specialfx-extension---commands-set
+# You can see the details on how to use all the available commands of this plugin Public Alpha Release 1 here :
+  https://amos-professional-unity.frederic-cordier.fr/spip.php?article6
